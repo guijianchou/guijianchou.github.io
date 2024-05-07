@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://pages.falsemeet.pro
+url: https://falsemeet.pro
 date_format: "ordinal"
 title: Blog随想
 subtitle: 
