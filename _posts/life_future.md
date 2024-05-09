@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 当未来和希望成为负担
-categories: [github]
+categories: [life]
 description: 人生旅途
 keywords: jekyll,Github Pages
 mermaid: false
